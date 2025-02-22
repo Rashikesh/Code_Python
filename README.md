@@ -8,13 +8,13 @@ SET UP ENVIRNOMENT FIRST BEFORE USING OPENCV
 
 COMMANDS TO USE 
 
-python3 -m venv ~/myenv
-  189  apt install python3.12-venv
-  190  python3 -m venv ~/myenv
-  191  source ~/myenv/bin/activate
-  192  pip install opencv-python
-  193  /bin/python3 /home/harshikesh/Downloads/image.py
-  194  pip install opencv-python
-  195  sudo apt install python3-opencv
-  196  /bin/python3 /home/harshikesh/Downloads/image.py
+  python3 -m venv ~/myenv
+  apt install python3.12-venv
+  python3 -m venv ~/myenv
+  source ~/myenv/bin/activate
+  pip install opencv-python
+  /bin/python3 /home/harshikesh/Downloads/image.py
+  pip install opencv-python
+  sudo apt install python3-opencv
+  /bin/python3 /home/harshikesh/Downloads/image.py
 
